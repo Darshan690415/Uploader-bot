@@ -5,8 +5,8 @@ import logging
 
 # Use environment variables for sensitive data
 TOKEN = os.getenv('7453258851:AAHBn_uEs9gmCtjKN-MOKJOaeQnXdL85axk')
-SOURCE_CHAT_ID = os.getenv('2206077017')
-DESTINATION_CHAT_ID = os.getenv('2178408268')
+SOURCE_CHAT_ID = os.getenv('-1002206077017')
+DESTINATION_CHAT_ID = os.getenv('-1002178408268')
 
 # Enable logging
 logging.basicConfig(
